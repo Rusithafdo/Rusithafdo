@@ -39,7 +39,6 @@ I'm a passionate full-stack developer from Sri Lanka, dedicated to creating seam
 ### 👯 **Collaboration**
 - Open to **innovative application ideas**
 - Seeking creative minds for groundbreaking projects
-- Always ready for **hackathons** and team challenges
 
 ### 🤝 **Looking for Help With**
 - Full-stack project optimization
