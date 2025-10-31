@@ -7,7 +7,9 @@
 ---
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;MERN+Stack+Specialist;UI%2FUX+Enthusiast;Problem+Solver;Innovation+Driver" alt="Typing SVG" />
-
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 </div>
 
 ---
@@ -21,6 +23,7 @@ I'm a passionate full-stack developer from Sri Lanka, dedicated to creating seam
 <table>
 <tr>
 <td width="50%">
+
 
 ### 🔭 **Current Focus**
 - **Real-Time Ticketing System** - Building scalable event management solutions
