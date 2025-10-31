@@ -147,6 +147,9 @@ I'm a passionate full-stack developer from Sri Lanka, dedicated to creating seam
   <img height="180em" src="https://streak-stats.vercel.app/?user=rusithafdo&theme=algolia&hide_border=true"/>
 </p>
 
+![Rusi's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rusithafdo&theme=react-dark&hide_border=true&area=true)
+
+
 ---
 
 ## 🎯 **Fun Facts**
