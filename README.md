@@ -136,19 +136,16 @@ I'm a passionate full-stack developer from Sri Lanka, dedicated to creating seam
 
 ## 📊 **GitHub Analytics**
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/rusithafdo">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rusithafdo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rusithafdo&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rusithafdo&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=F59E0B&currStreakLabel=F59E0B" alt="GitHub Streak" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=rusithafdo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=6366F1&text_color=FFFFFF&title_color=F59E0B" alt="GitHub Stats" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rusithafdo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=F59E0B" alt="Top Languages" />
-
-</div>
+<p align="center">
+  <img height="180em" src="https://streak-stats.vercel.app/?user=rusithafdo&theme=algolia&hide_border=true"/>
+</p>
 
 ---
 
