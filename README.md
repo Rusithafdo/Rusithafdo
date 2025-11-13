@@ -15,8 +15,15 @@
 ## 🌟 **About Me**
 
 > *"Code is poetry written in logic, design is emotion expressed in pixels"*
-
+<a target="_blank" align="right">
+  <img align="right" top="0" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+</br>
+<div>
+<div align="left">
 I'm a passionate full-stack developer from Sri Lanka, dedicated to creating seamless digital experiences that bridge the gap between functionality and aesthetics. With a keen eye for design and a love for clean, efficient code, I transform ideas into reality.
+</div>
+
 
 <table>
 <tr>
